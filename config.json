@@ -65,6 +65,13 @@
       "description": "Create a REST API in Python with FastAPI, including CRUD endpoints and request validation.",
       "path": "assignments/fastapi-rest-api",
       "dueDate": "2026-10-29"
+    },
+    {
+      "id": "student-gradebook-file-io",
+      "title": "File I/O Mini-Project: Student Gradebook",
+      "description": "Build a Python gradebook that stores student grades in a CSV file and summarizes class results.",
+      "path": "assignments/student-gradebook-file-io",
+      "dueDate": "2026-10-29"
     }
   ]
 }
